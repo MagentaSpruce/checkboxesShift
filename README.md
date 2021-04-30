@@ -4,11 +4,10 @@ Part of 30 day JS Challenge
 This demonstrates how to create a form which has multiple checkboxes which can be checked simultaneously upon holding down the shift key.
 
 This project helped me to better learn and understand the following:
-1) dd
-2) 2d
-3) fdd
-4) ffd
-5) fff
+1) DOM manipulation
+2) this keyword
+3) Writing functions
+4) Simple logic
 
 
 A simple explanation of the code is below:
